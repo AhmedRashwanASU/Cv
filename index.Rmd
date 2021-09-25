@@ -1,10 +1,10 @@
 ---
-title: "Nick Strayer's CV"
-author: Nick Strayer
+title: Ahmed Rashwan Resume"
+author: Ahmed Rashwan
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
-    css: ['css/styles.css', 'resume']
+    css: ['css/custom_resume.css', 'css/styles.css', 'resume']
     # set it to true for a self-contained HTML page but it'll take longer to render
     self_contained: true
 ---
@@ -63,29 +63,32 @@ Contact {#contact}
 --------------------------------------------------------------------------------
 
 
-- <i class="fa fa-envelope"></i> nick.strayer@gmail.com
-- <i class="fa fa-twitter"></i> NicholasStrayer
-- <i class="fa fa-github"></i> github.com/nstrayer
-- <i class="fa fa-link"></i> [nickstrayer.me](http://nickstrayer.me/)
-- <i class="fa fa-phone"></i> (734) 645-0110
+- <i class="fa fa-envelope"></i> aarashwa@asu.edu
+- <i class="fa fa-twitter"></i> Ahmed-Rashwan
+- <i class="fa fa-github"></i> github.com/AhmedRashwanASU
+- <i class="fa fa-link"></i> [AhmedR-CV](https://ahmedrashwanasu.github.io/Cv/)
+- <i class="fa fa-phone"></i> (+971) 552992903
 
 
 
 Language Skills {#skills}
 --------------------------------------------------------------------------------
 
+
 ```{r}
 skills <- tribble(
   ~skill,               ~level,
-  "R",                  5,
-  "Javascript (d3.js)", 4.5,
-  "Python",             4,
-  "Bash",               3.5,
+  "R",                  4.5,
+  "Javascript",         4,
+  "HTML5",              4.5,
+  "CSS3",               4,
   "SQL",                3,
-  "C++",                3,
-  "AWK",                3
+  "Java",               3.5,
+  "Digital Marketing",  4.5
+  "IoT",                3.5
+  "OOP ",               4
+  "UI",                 4.5 
 )
-
 build_skill_bars(skills)
 ```
 
