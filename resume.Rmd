@@ -1,6 +1,6 @@
 ---
-title: Nick Strayer's Resume"
-author: Nick Strayer
+title: Ahmed Rashwan Resume"
+author: Ahmed Rashwan
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
@@ -54,11 +54,11 @@ Contact {#contact}
 
 
 
-- <i class="fa fa-envelope"></i> nick.strayer@gmail.com
-- <i class="fa fa-twitter"></i> NicholasStrayer
-- <i class="fa fa-github"></i> github.com/nstrayer
-- <i class="fa fa-link"></i> [nickstrayer.me](http://nickstrayer.me/)
-- <i class="fa fa-phone"></i> (734) 645-0110
+- <i class="fa fa-envelope"></i> aarashwa@asu.edu
+- <i class="fa fa-twitter"></i> Ahmed-Rashwan
+- <i class="fa fa-github"></i> github.com/AhmedRashwanASU
+- <i class="fa fa-link"></i> [AhmedR-CV](https://ahmedrashwanasu.github.io/Cv/)
+- <i class="fa fa-phone"></i> (+971) 552992903
 
 
 
@@ -69,13 +69,16 @@ Language Skills {#skills}
 ```{r}
 skills <- tribble(
   ~skill,               ~level,
-  "R",                  5,
-  "Javascript (d3.js)", 4.5,
-  "Python",             4,
-  "Bash",               3.5,
+  "R",                  4.5,
+  "Javascript",         4,
+  "HTML5",              4.5,
+  "CSS3",               4,
   "SQL",                3,
-  "C++",                3,
-  "AWK",                3
+  "Java",               3.5,
+  "Digital Marketing",  4.5
+  "IoT",                3.5
+  "OOP ",               4
+  "UI",                 4.5 
 )
 build_skill_bars(skills)
 ```
@@ -118,7 +121,7 @@ Nick Strayer {#title}
 --------------------------------------------------------------------------------
 
 ```{r}
-intro_text <- "I have made [visualizations viewed by hundreds of thousands of people](https://www.nytimes.com/interactive/2016/08/26/us/college-student-migration.html), [sped up query times for 25 terabytes of data by an average of 4,800 times](https://livefreeordichotomize.com/2019/06/04/using_awk_and_r_to_parse_25tb/), and built [packages for R](https://github.com/nstrayer/shinysense) that let you [do magic](http://nickstrayer.me/dataDayTexas/).
+intro_text <- "developing, improving, And obtaining the necessary skills in order to become the best engineer possible, leading to higher Growth, facing challenges, looking to join an organization where strong project management and Analytical skills, and built [packages for R](https://github.com/nstrayer/shinysense) that let you [do magic](http://nickstrayer.me/dataDayTexas/).
 
 Currently searching for a data science position that allows me to build tools using visualization and machine learning to help people explore and understand their data. 
 "
