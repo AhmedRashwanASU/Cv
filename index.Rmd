@@ -47,7 +47,7 @@ Aside
 ================================================================================
 
 
-![logo](1180801.png){width=100%}
+![logo](002.JPG){width=100%}
 
 ```{r}
 # When in export mode the little dots are unaligned, so fix that. 
