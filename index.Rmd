@@ -186,6 +186,10 @@ Certifications {data-icon=chart-line}
 print_section(position_data, 'data_science_writings')
 ```
 
+::: aside
+Holding Golden Visa of UAE For Specialized Talents Valid Till 2032
+:::
+
 Interpersonal skills  {#skills}
 --------------------------------------------------------------------------------
 
