@@ -170,7 +170,7 @@ Recent Projects {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
 ::: aside
-Im passionate about learning new things, especially development. So much i started a small collaboration group of developers and slack group to collaborate new projects , approaches and technologies that help me do a better job 
+Im passionate about learning new things, especially development. So much i started a small collaboration group of developers and slack group to collaborate new projects , approaches and technologies that help me do a better job Cased me to be Nominated For Golden Visa of UAE For Specialized Talents Valid Till 2032
 :::
 
 ```{r}
